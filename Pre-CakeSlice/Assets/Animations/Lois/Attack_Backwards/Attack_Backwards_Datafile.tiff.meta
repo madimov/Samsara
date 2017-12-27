@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: dd41ab4bdbe7941679346210a4226e68
+timeCreated: 1510880109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Attack_Backwards_Datafile_0
+    21300002: Attack_Backwards_Datafile_1
+    21300004: Attack_Backwards_Datafile_5
+    21300006: Attack_Backwards_Datafile_7
+    21300008: Attack_Backwards_Datafile_9
+    21300010: Attack_Backwards_Datafile_10
+    21300012: Attack_Backwards_Datafile_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Attack_Backwards_Datafile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 470
+        height: 576
+      alignment: 9
+      pivot: {x: .575973928, y: .454914302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1482
+        width: 410
+        height: 566
+      alignment: 9
+      pivot: {x: .523752511, y: .442647219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 830
+        width: 290
+        height: 632
+      alignment: 9
+      pivot: {x: .287320971, y: .453773022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 870
+        width: 335
+        height: 594
+      alignment: 9
+      pivot: {x: .432170093, y: .428956091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 212
+        height: 496
+      alignment: 9
+      pivot: {x: .469375849, y: .499999881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 337
+        width: 189
+        height: 485
+      alignment: 9
+      pivot: {x: .431298137, y: .499999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack_Backwards_Datafile_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 384
+        width: 197
+        height: 473
+      alignment: 9
+      pivot: {x: .48352176, y: .499999881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

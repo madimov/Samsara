@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 07634d81cec504239809eef9ff542626
+timeCreated: 1510883238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonsterRight_Datafile_0
+    21300002: MonsterRight_Datafile_2
+    21300004: MonsterRight_Datafile_5
+    21300006: MonsterRight_Datafile_7
+    21300008: MonsterRight_Datafile_11
+    21300010: MonsterRight_Datafile_12
+    21300012: MonsterRight_Datafile_14
+    21300014: MonsterRight_Datafile_15
+    21300016: MonsterRight_Datafile_17
+    21300018: MonsterRight_Datafile_20
+    21300020: MonsterRight_Datafile_21
+    21300022: MonsterRight_Datafile_22
+    21300024: MonsterRight_Datafile_26
+    21300026: MonsterRight_Datafile_27
+    21300028: MonsterRight_Datafile_28
+    21300030: MonsterRight_Datafile_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MonsterRight_Datafile_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3398
+        width: 745
+        height: 695
+      alignment: 9
+      pivot: {x: .343138576, y: .00490248436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3496
+        width: 743
+        height: 597
+      alignment: 9
+      pivot: {x: .38234672, y: .0490080602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2953
+        width: 743
+        height: 527
+      alignment: 9
+      pivot: {x: .387052923, y: .055454202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2849
+        width: 714
+        height: 506
+      alignment: 9
+      pivot: {x: .392260045, y: .0508251563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2246
+        width: 724
+        height: 578
+      alignment: 9
+      pivot: {x: .4082371, y: .064430736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2341
+        width: 705
+        height: 590
+      alignment: 9
+      pivot: {x: .390884727, y: .0495837182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_14
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2339
+        width: 488
+        height: 582
+      alignment: 9
+      pivot: {x: -.152039573, y: -.317087084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1783
+        width: 714
+        height: 547
+      alignment: 9
+      pivot: {x: .430708855, y: .0899789855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1595
+        width: 710
+        height: 628
+      alignment: 9
+      pivot: {x: .355991662, y: .0535797328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1041
+        width: 696
+        height: 551
+      alignment: 9
+      pivot: {x: .334139377, y: .0330958962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_21
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1171
+        width: 690
+        height: 598
+      alignment: 9
+      pivot: {x: .385278136, y: .0477307178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1145
+        width: 592
+        height: 631
+      alignment: 9
+      pivot: {x: -.146280035, y: -.26314646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 373
+        width: 642
+        height: 664
+      alignment: 9
+      pivot: {x: .335600853, y: .0479799286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 509
+        width: 669
+        height: 528
+      alignment: 9
+      pivot: {x: .332375735, y: .0814711824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_28
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 631
+        width: 678
+        height: 508
+      alignment: 9
+      pivot: {x: .329736054, y: .0520084426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonsterRight_Datafile_30
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 7
+        width: 665
+        height: 490
+      alignment: 9
+      pivot: {x: .34624657, y: .0894004852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
